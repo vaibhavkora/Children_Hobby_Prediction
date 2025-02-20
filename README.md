@@ -72,7 +72,7 @@ from sklearn.metrics import accuracy_score
 ### Model Performance
 - The Logistic Regression model achieved an accuracy of 89.03% on the test set.
 
-### Sample Predictions
+#### Sample Predictions
 - First 10 test predictions: [0, 1, 1, 1, 2, 2, 2, 0, 1, 0].
 - Actual values: [0, 1, 1, 1, 2, 2, 2, 0, 0, 0].
 - Insight: 9/10 predictions correct, indicating strong performance.
